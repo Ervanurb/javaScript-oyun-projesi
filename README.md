@@ -1,5 +1,10 @@
 # Rolling Racers
-Bu oyun, engellerle dolu dinamik bir yolda hayatta kalmaya çalıştığınız, hızlı tempolu bir kaçış oyunudur. Oyuncunuzun gücünü artırmak için power-up'ları toplayın, tehlikeli bombalardan kaçının ve yolunuza çıkan engelleri stratejik olarak aşın. Bu oyun Rolling Racers(https://stevopineapple.itch.io/rolling-racers) adlı oyunun temel mantığından esinlenerek tasarlanmıştır.
+> 2D JavaScript tabanlı sonsuz yarış oyunu
+
+Rolling Racers, HTML, CSS ve JavaScript kullanılarak geliştirilmiş bir 2D yarış oyunudur. Oyuncu bir küpü kontrol ederek diğer rakiplerle yarışır ve sonsuz bir yolda engellerden kaçınarak puan toplamaya çalışır.
+ Oyuncunuzun gücünü artırmak için power-up'ları toplayın, tehlikeli bombalardan kaçının ve yolunuza çıkan engelleri stratejik olarak aşın. Bu oyun Rolling Racers(https://stevopineapple.itch.io/rolling-racers) adlı oyunun temel mantığından esinlenerek tasarlanmıştır.
+
+ ##Oyunun Ekran Görüntüsü
 
 #Hedeflenen Oyun Mekaniği ve Özgün Yaklaşım
 Seçilen Temel Mekanik: Dikeyde ilerleyen bir engelden kaçış oyununun temel mekaniği, oyuncunun engellerle etkileşim kurabilme ve gücünü yönetebilme yeteneğiyle zenginleştirilmiştir.
