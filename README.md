@@ -21,7 +21,7 @@
 
 ### 1. Projeyi İndir
 
-```bash
+```bash '''
 git clone https://github.com/kullanici-adi/rolling-racers.git
 cd rolling-racers
 
