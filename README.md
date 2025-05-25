@@ -32,7 +32,7 @@ Bu oyun, Rolling Racers (https://stevopineapple.itch.io/rolling-racers) oyununun
 
 - HTML5
 - CSS3
-- JavaScript (ES6)
+- JavaScript 
 - [Canvas API](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)
 
 ## Projemdeki Uyarlamalar:
@@ -70,7 +70,7 @@ assets/speed.png görseliyle temsil edilen ve üzerinde "2X" yazan, toplandığ�
 ## Tarayıcı Uyumluluğu
 Bu oyun, Google Chrome ve Mozilla Firefox tarayıcılarında sorunsuz çalışacak şekilde test edilmiştir.
 
-# Asset Kaynakları
+## Asset Kaynakları
 Bu projede kullanılan ve kendime ait olmayan tüm görsel varlıkların kaynakları aşağıda belirtilmiştir:
 
 assets/cube.png (Oyuncu Görseli), assets/engel.png (Engel Görseli), assets/blast.png (Bomba Görseli), assets/speed.png (Çarpan Bonusu Görseli): https://www.flaticon.com/
