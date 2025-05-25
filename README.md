@@ -47,12 +47,7 @@ Yola rastgele dağılmış power-up'lar (sarı kareler) toplanarak oyuncunun gü
 Normal engellere ek olarak, çarpıldığında oyunu anında bitiren bombalar oyuna eklenmiştir.
 ### Çarpan Bonusları:
 Oyuncunun gücünü iki katına çıkaran özel çarpan bonusları (2X) oyuna dinamizm katmaktadır.
-### "Bullet Time" (Mermi Zamanı) Mekaniği: 
-Oyuncu boşluk tuşuna basılı tutarak kısa süreliğine dünyayı yavaşlatabilir ve daha hassas hareket edebilir. Bu, zor anlarda stratejik avantaj sağlar.
-### "Dash" (Atılma) Mekaniği:
-Oyuncu Shift tuşuna basarak kısa süreliğine ileri atılabilir. Bu, hızlı kaçışlar veya pozisyon alma için kullanılabilir ve bir soğuma süresi (cooldown) vardır.
-### Kamera Takibi ve Dünya Kaydırma: Oyuncu ekranın belirli bir üst eşiğine (ekran yüksekliğinin %10'u) ulaştığında, oyuncunun dikey konumu sabit kalırken arka plan ve engeller aşağı doğru kayarak sonsuz bir ilerleme hissi yaratılır.
-### Programatik Ses Efektleri:
+### Programatik Ses Efektleri ve müzik:
 Çarpışmalar, power-up toplama, bullet time ve dash gibi olaylar için Web Audio API kullanılarak özgün ses efektleri programatik olarak üretilmiştir.
 
 ## Kontroller
@@ -76,8 +71,6 @@ assets/speed.png görseliyle temsil edilen ve üzerinde "2X" yazan, toplandığ�
 
 ## Tarayıcı Uyumluluğu
 Bu oyun, Google Chrome ve Mozilla Firefox tarayıcılarında sorunsuz çalışacak şekilde test edilmiştir.
-
-
 
 # Asset Kaynakları
 Bu projede kullanılan ve kendime ait olmayan tüm görsel varlıkların kaynakları aşağıda belirtilmiştir:
