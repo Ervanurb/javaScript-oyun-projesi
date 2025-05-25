@@ -21,10 +21,10 @@ Oyunun nasıl oynanacağı örnek videoda (https://youtu.be/LPOFC4RCZJw) göster
 
 
  ## Oyunun Ekran Görüntüsü
- ![Uygulama Giriş Ekranı](images/foto1.jpg)
- ![Uygulama Giriş Ekranı](images/foto2.jpg)
- ![Uygulama Giriş Ekranı](images/foto3.jpg)
- ![Uygulama Giriş Ekranı](images/foto4.jpg)
+ ![Uygulama Giriş Ekranı](images/foto1.png)
+ ![Uygulama Giriş Ekranı](images/foto2.png)
+ ![Uygulama Giriş Ekranı](images/foto3.png)
+ ![Uygulama Giriş Ekranı](images/foto4.png)
 
 ## Hedeflenen Oyun Mekaniği ve Özgün Yaklaşım
 > Dikeyde ilerleyen bir engelden kaçış oyununun temel mekaniği, oyuncunun engellerle etkileşim kurabilme ve gücünü yönetebilme yeteneğiyle zenginleştirilmiştir.
