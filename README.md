@@ -1,7 +1,7 @@
 # 🏎️ Rolling Racers - 2D Sonsuz Yarış Oyunu
 
 **Rolling Racers**, oyuncunun kontrol ettiği bir küple diğer küplerle yarıştığı, sonsuz bir 2D yarış oyunudur. Oyuncu, yol boyunca çıkan engellerden kaçmalı, güçlendiricileri toplamalı ve yüksek skor elde etmeye çalışmalıdır. Bu oyun, Rolling Racers (https://stevopineapple.itch.io/rolling-racers) oyununun temel mantığı örnek alınarak tasarlanmştır.
-Oyunun nasıl oynanacağı örnek videoda (https://youtu.be/LPOFC4RCZJw) gösterilmiştir.
+Oyunun nasıl oynanacağı örnek videoda (https://youtu.be/XeeahdecCZY) gösterilmiştir.
 
 ## 🎮 Özellikler
 
