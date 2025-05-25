@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rolling Racers</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div id="startScreen">
+        <img src="assets/blast.png" alt="Sol Köşe Resmi" class="corner-image top-left">
+        <img src="assets/speed.png" alt="Sağ Köşe Resmi" class="corner-image top-right">
+        <br><br><br><br>
+        <h1>Rolling Racers</h1>
+        <p>Oyunu oynamak için aşağıdaki tuşları kullanın</p>
+
+        <div class="controls">
+            <div class="control-set">
+                <img src="assets/wasd.png" alt="WASD Tuşları" class="control-image">
+                <p>WASD Tuşları</p>
+            </div>
+            <div class="control-set">
+                <img src="assets/arrow-keys.png" alt="Ok Tuşları" class="control-image">
+                <p>Ok Tuşları</p>
+            </div>
+        </div>
+
+        <button id="playButton">Başla</button>
+        <button id="soundToggleButton"></button> </div>
+
+    <div id="howToPlayScreen">
+        <h2>Nasıl Oynanır?</h2>
+        <div class="rules-content">
+            <p><strong>Amaç:</strong> Engellerden kaçınarak veya onları yok ederek olabildiğince uzun süre hayatta kal ve en yüksek skoru yap!</p>
+
+            <h3>Kontroller</h3>
+            <ul>
+                <li><p><strong>WASD / Ok Tuşları:</strong> Aracını hareket ettir.</p></li>
+                <li><p><strong>Boşluk (Spacebar):</strong> Bullet Time! Dünya yavaşlar ve güç harcayarak düşmanların üstüne çıkabilirsin. Gücün biterse veya tuşu bırakırsan kapanır.</p></li>
+                <li><p><strong>Shift:</strong> Hızlanma. Kısa süreliğine hızlanarak engellerden sıyrıl.</p></li>
+            </ul>
+
+            <h3>İpuçları:</h3>
+            <ul>
+                <li><p><strong>Yeşil Engeller:</strong> Üzerindeki sayı gücünü gösterir. Senin gücün engelden fazlaysa yok edip +5 puan alırsın. Azsa güç kaybedersin.</p></li>
+                <li><p><strong>Bombalar:</strong> Sakın çarpma! Çarparsan oyun biter.</p></li>
+                <li><p><strong>2X İkonu:</strong> Üzerine çarptığında gücün ikiye katlanır! Avantajını kullan.</p></li>
+                <li><p><strong>Mavi Prizma:</strong> Güç Toplayıcısı! Gücünü bir miktar artırır.</p></li>
+            </ul>
+        </div>
+        <button id="startGameButton">Oyuna Başla!</button>
+        <button id="backToMenuButton">Ana Menü</button>
+    </div>
+
+    
+    <canvas id="gameCanvas" width="1000" height="800"></canvas>
+
+    <div id="gameOverScreen">
+        <h1>OYUN BİTTİ!</h1>
+        <p>Skorunuz: <span id="finalScore">0</span></p>
+        <button id="restartButton">Yeniden Oyna</button>
+        <button id="mainMenuButton">Ana Menüye Dön</button>
+    </div>
+
+     <audio id="backgroundMusic" loop>
+        <source src="assets/music.mp3" type="audio/mpeg">
+        Tarayıcınız audio etiketini desteklemiyor.
+    </audio>
+    
+    <script src="script.js"></script>
+</body>
+</html>
