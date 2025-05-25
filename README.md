@@ -74,4 +74,5 @@ Bu oyun, Google Chrome ve Mozilla Firefox tarayıcılarında sorunsuz çalışac
 Bu projede kullanılan ve kendime ait olmayan tüm görsel varlıkların kaynakları aşağıda belirtilmiştir:
 
 assets/cube.png (Oyuncu Görseli), assets/engel.png (Engel Görseli), assets/blast.png (Bomba Görseli), assets/speed.png (Çarpan Bonusu Görseli): https://www.flaticon.com/
+music.mp3 (Arkaplan müziği): https://uppbeat.io/music/category/game
 Ses Efektleri: playSound() fonksiyonu ile Web Audio API kullanılarak programatik olarak üretilmiştir. Harici bir ses dosyası kullanılmamıştır.
